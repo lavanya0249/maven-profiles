@@ -89,12 +89,12 @@
             <snapshotRepository>
                <id>snapshots</id>
                <name>fc933276c210-snapshots</name>
-               <url>http://13.235.71.209:8081/repository/maven-Snapshots/</url>
+               <url>http://13.235.79.44:8081/repository/java-snapshot/</url>
          </snapshotRepository>
             <repository>
                <id>central</id>
                <name>fc933276c210-releases</name>
-               <url>http://13.235.71.209:8081/repository/maven-Release/</url>
+               <url>http://13.235.79.44:8081/repository/java-release/</url>
             </repository>
        </distributionManagement>	
 
